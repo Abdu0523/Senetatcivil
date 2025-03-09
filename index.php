@@ -42,7 +42,7 @@
       <a href="index.php" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         
-        <h1><span>Sen&eacute;tatciviL</span></h1>
+        <h1><span>SEN&Eacute;TATCIVIL</span></h1>
       </a>
 
          <nav id="navbar" class="navbar">
